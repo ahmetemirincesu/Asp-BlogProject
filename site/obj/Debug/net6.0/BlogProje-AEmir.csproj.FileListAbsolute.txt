@@ -1,0 +1,1346 @@
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\appsettings.json
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.staticwebassets.runtime.json
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.exe
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.deps.json
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.runtimeconfig.json
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.pdb
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MySqlConnector.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.AssemblyReference.cache
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfoInputs.cache
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfo.cs
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cache
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cs
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.sourcelink.json
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets\msbuild.BlogProje-AEmir.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets\msbuild.build.BlogProje-AEmir.props
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlogProje-AEmir.props
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlogProje-AEmir.props
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\scopedcss\bundle\BlogProje-AEmir.styles.css
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProj.9CDADB68.Up2Date
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\refint\BlogProje-AEmir.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.pdb
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.genruntimeconfig.cache
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\ref\BlogProje-AEmir.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Humanizer.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Common.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\VisualStudio projects\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\appsettings.json
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.staticwebassets.runtime.json
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.exe
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.deps.json
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.runtimeconfig.json
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.pdb
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.AssemblyReference.cache
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfoInputs.cache
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfo.cs
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cache
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cs
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\scopedcss\bundle\BlogProje-AEmir.styles.css
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.CopyComplete
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\refint\BlogProje-AEmir.dll
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.pdb
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.genruntimeconfig.cache
+C:\Users\ahmet\Downloads\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\ref\BlogProje-AEmir.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\appsettings.json
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.staticwebassets.runtime.json
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.exe
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.deps.json
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cache
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\scopedcss\bundle\BlogProje-AEmir.styles.css
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.CopyComplete
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\refint\BlogProje-AEmir.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.genruntimeconfig.cache
+C:\Users\ahmet\OneDrive\Masaüstü\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\ref\BlogProje-AEmir.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\appsettings.Development.json
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\appsettings.json
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.staticwebassets.runtime.json
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.exe
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.deps.json
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.runtimeconfig.json
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.pdb
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Humanizer.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MySqlConnector.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Common.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.AssemblyReference.cache
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.GeneratedMSBuildEditorConfig.editorconfig
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfoInputs.cache
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfo.cs
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.CoreCompileInputs.cache
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.MvcApplicationPartsAssemblyInfo.cache
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cache
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cs
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.build.json
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.development.json
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\scopedcss\bundle\BlogProje-AEmir.styles.css
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.CopyComplete
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\refint\BlogProje-AEmir.dll
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.pdb
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.genruntimeconfig.cache
+C:\1971\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\ref\BlogProje-AEmir.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\appsettings.Development.json
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\appsettings.json
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.staticwebassets.runtime.json
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.staticwebassets.endpoints.json
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.exe
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.deps.json
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.runtimeconfig.json
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.pdb
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Humanizer.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\MySqlConnector.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Common.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.AssemblyReference.cache
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.GeneratedMSBuildEditorConfig.editorconfig
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfoInputs.cache
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfo.cs
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.CoreCompileInputs.cache
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.MvcApplicationPartsAssemblyInfo.cache
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cache
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cs
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\scopedcss\bundle\BlogProje-AEmir.styles.css
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.build.json
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.development.json
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets\msbuild.BlogProje-AEmir.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets\msbuild.BlogProje-AEmir.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets\msbuild.build.BlogProje-AEmir.props
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlogProje-AEmir.props
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlogProje-AEmir.props
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProj.9CDADB68.Up2Date
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\refint\BlogProje-AEmir.dll
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.pdb
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.genruntimeconfig.cache
+D:\MUHAMMED\drift-game\BlogProje-AEmir\obj\Debug\net6.0\ref\BlogProje-AEmir.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\appsettings.json
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.staticwebassets.runtime.json
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.exe
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.deps.json
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.runtimeconfig.json
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\BlogProje-AEmir.pdb
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Humanizer.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.AssemblyReference.cache
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfoInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.AssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.CoreCompileInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cache
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.RazorAssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\scopedcss\bundle\BlogProje-AEmir.styles.css
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.csproj.CopyComplete
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\refint\BlogProje-AEmir.dll
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.pdb
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\BlogProje-AEmir.genruntimeconfig.cache
+C:\Users\WT-OGRENCI-01\Desktop\BlogProje-AEmir2.0\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\BlogProje-AEmir\obj\Debug\net6.0\ref\BlogProje-AEmir.dll

@@ -1,0 +1,39 @@
+﻿@model Yazi
+
+@{
+    ViewData["Title"] = "Detay";
+    ViewBag.header = "post";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5 px-2 bg-primary">
+    <div class="row py-5 px-4">
+        <div class="col-sm-6 text-center text-md-left">
+            <h1 class="mb-3 mb-md-0 text-white text-uppercase font-weight-bold">İçeriğin Tamamı</h1>
+        </div>
+        <div class="col-sm-6 text-center text-md-right">
+            <div class="d-inline-flex pt-2">
+                <h4 class="m-0 text-white"><a class="text-white" href="">Blog</a></h4>
+                <h4 class="m-0 text-white px-2">/</h4>
+                <h4 class="m-0 text-white">İçerik Detayı</h4>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container py-5 px-2 bg-white">
+    <div class="row px-4">
+        <div class="col-12">
+            <img class="img-fluid mb-4" src="@Model.ResimUrl" alt="Image">
+            <h2 class="mb-3 font-weight-bold">@Model.Baslik</h2>
+            <div class="d-flex">
+                <p class="mr-3 text-muted"><i class="fa fa-calendar-alt"></i> @Model.Tarih.ToShortDateString()</p>
+                <p class="mr-3 text-muted"><i class="fa fa-folder"></i> @Model.Kategori.Ad</p>
+                <p class="mr-3 text-muted"><i class="fa fa-comments"></i> @Model.OlusturanKisi</p>
+            </div>
+
+            <p>@Model.Icerik</p>
+
+        </div>
+    </div>
+</div>

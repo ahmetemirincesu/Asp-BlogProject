@@ -1,0 +1,58 @@
+﻿@model Mesaj
+
+@{
+    ViewData["Title"] = "Index";
+    ViewBag.header = "iletisim";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5 px-2 bg-primary">
+    <div class="row py-5 px-4">
+        <div class="col-sm-6 text-center text-md-left">
+            <h1 class="mb-3 mb-md-0 text-white text-uppercase font-weight-bold">İletişim</h1>
+        </div>
+        <div class="col-sm-6 text-center text-md-right">
+            <div class="d-inline-flex pt-2">
+                <h4 class="m-0 text-white"><a class="text-white" href="">Ana Sayfa</a></h4>
+                <h4 class="m-0 text-white px-2">/</h4>
+                <h4 class="m-0 text-white">İletişim</h4>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (ViewBag.SuccessMessage != null)
+{
+    <div class="alert alert-success mt-3">@ViewBag.SuccessMessage</div>
+}
+
+<div class="container bg-white pt-5">
+    <div class="col-md-12 pb-5">
+        <div class="contact-form">
+            <div id="success"></div>
+            <form name="sentMessage" id="contactForm" asp-action="Index" asp-controller="Iletisim" method="post">
+                <div class="control-group">
+                    <input type="email" asp-for="Mail" class="form-control" id="email" placeholder="Mail Adresiniz"
+                        required="required" />
+                    <span asp-validation-for="Mail" class="text-danger"></span>
+                    <p class="help-block text-danger"></p>
+                </div>
+                <div class="control-group">
+                    <input type="text" class="form-control" asp-for="Konu" id="subject" placeholder="Konu"
+                        required="required" />
+                    <span asp-validation-for="Konu" class="text-danger"></span>
+                    <p class="help-block text-danger"></p>
+                </div>
+                <div class="control-group">
+                    <textarea class="form-control" rows="8" id="message" asp-for="Icerik" placeholder="Mesajınız"
+                        required="required"></textarea>
+                    <span asp-validation-for="Icerik" class="text-danger"></span>
+                    <p class="help-block text-danger"></p>
+                </div>
+                <div>
+                    <button class="btn btn-primary" type="submit" id="sendMessageButton">Mesajı Gönder</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

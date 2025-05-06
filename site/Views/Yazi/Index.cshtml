@@ -1,0 +1,42 @@
+﻿@model List<Yazi>
+@{
+    ViewData["Title"] = "Blog Yazıları";
+    ViewBag.header = "blog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5">
+    <h2 class="mb-4">Blog Yazıları</h2>
+
+    <form method="get" class="d-flex gap-2 mb-4">
+        <input type="text" name="arama" class="form-control" placeholder="Başlığa göre ara..." />
+        <select name="kategori" class="form-select">
+            <option value="">Tüm Kategoriler</option>
+            <option value="SQL">SQL</option>
+            <option value="HTML">HTML</option>
+            <option value="C#">C#</option>
+        </select>
+        <button type="submit" class="btn btn-primary">Filtrele</button>
+    </form>
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-6 mb-4">
+                <div class="card">
+                    <img src="@item.ResimUrl" class="card-img-top" alt="Görsel" />
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Baslik</h5>
+                        <p class="card-text text-muted mb-1">
+                            <i class="fa fa-calendar-alt"></i> @item.Tarih.ToShortDateString()
+                            <i class="fa fa-folder ms-2"></i> @item.Kategori.Ad
+                            <i class="fa fa-user ms-2"></i> @item.OlusturanKisi
+                        </p>
+                        <p class="card-text">@item.Icerik.Substring(0, 100)...</p>
+                        <a href="/Yazi/Detay/@item.Id" class="btn btn-outline-primary">Devamını Oku</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

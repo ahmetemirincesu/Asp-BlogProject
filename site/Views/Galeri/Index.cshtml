@@ -1,0 +1,33 @@
+﻿@model List<Galeri>
+
+@{
+    ViewData["Title"] = "Index";
+    ViewBag.header = "galeri";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    bool ilkMi = true;
+}
+<div class="container p-0">
+    <div id="blog-carousel" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+
+            @foreach (var item in Model)
+            {
+                <div class="carousel-item @(ilkMi == true ? "active" : "")">
+                    <img class="w-100" src="@item.ResimUrl" alt="Image">
+                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-end"
+                        style="position: absolute; bottom: 0; width: 100%; background: none;">
+                        <h2 class="mb-3 text-white font-weight-bold">@item.Aciklama</h2>
+                    </div>
+                </div>
+
+                ilkMi = false;
+            }
+        </div>
+        <a class="carousel-control-prev" href="#blog-carousel" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#blog-carousel" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
+</div>
